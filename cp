@@ -1,0 +1,1 @@
+history -a cp ~/.bash_history ./Historial_comandos_Licandro.txt
